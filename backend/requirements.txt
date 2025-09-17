@@ -1,0 +1,4 @@
+fastapi
+aiosqlite
+sqlalchemy
+python-socketio
