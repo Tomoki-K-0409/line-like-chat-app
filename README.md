@@ -1,4 +1,4 @@
-# LINE Chat App
+# LINE-like Chat App
 
 This is a simple LINE-like chat application built with Next.js (Frontend) and FastAPI (Backend) using SQLite for the database.
 
